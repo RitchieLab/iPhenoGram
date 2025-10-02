@@ -24,5 +24,3 @@ iPhenoGram accepts a tab-delimited input file with the following recognized head
 - **phenotype, pheno, category** → controls colors  
 - **tissue, group** → controls shapes *(max 7)*  
 - **shading, data, fill** → controls shading *(max 3)*  
-
-It is easy to add alternative names for columns if additional mappings are needed.  
